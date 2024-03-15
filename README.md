@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ADuxXfcYTC444E84_N5Epg.png)
+
 <h1 align="center">Hi 👋, I'm Naseem</h1>
 <h3 align="center">A passionate Frontend developer and Backend developer</h3>
 <p align="center">
