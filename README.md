@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Track Back**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Java,Python,React,PHP**
 
