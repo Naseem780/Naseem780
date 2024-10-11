@@ -3,8 +3,7 @@
 <h3 align="center">A passionate Frontend developer and Backend developer</h3>
 <p align="center">
   <img alt="Coding" width="400" src="https://www.captainvee.com/img/profile-img.gif">
-  <img alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/7c214242-3668-40b1-83ce-e83c0ebaf918)
-">
+  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/media/1173d79be1db489e65970b44f43f44cb.gif">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naseem780&label=Profile%20views&color=0e75b6&style=flat" alt="naseem780" /> </p>  
